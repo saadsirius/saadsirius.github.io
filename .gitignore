@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# Editor temp files
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Node (if ever added)
+node_modules/
+npm-debug.log*
+
+# Build artifacts (if Jekyll or Hugo is ever used)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+public/
+
